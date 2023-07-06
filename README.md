@@ -1,3 +1,3 @@
-# Laura 
+# Hi, I'm Laura !
 
-hello
+I'm currently studying web development and creating projects for my final exams.
